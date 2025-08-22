@@ -21,7 +21,7 @@ function About() {
             <div className="card shadow p-4 border-0 bg-white bg-opacity-75">
               <h4 className="text-dark mb-3">.....</h4>
               <p className="text-muted">
-                {I'm Passionate AWS & DevOps Engineer with a solid background in Python development and hands-on expertise in cloud technologies.}
+                {/* I'm Passionate AWS & DevOps Engineer with a solid background in Python development and hands-on expertise in cloud technologies. */}
               </p>
               <p className="text-muted">
                 {/* Through comprehensive training at Emexo Technologies and hands-on internship experience, I've developed expertise in containerization, CI/CD pipelines, cloud platforms, and infrastructure automation. I believe in continuous learning and staying updated with the latest industry trends. */}
