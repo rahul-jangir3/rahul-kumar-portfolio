@@ -5,23 +5,18 @@ import '../App.css';
 
 const educationList = [
   {
-    title: "BACHELORS OF TECHNOLOGY",
-    institution: "XXXXXXXXX",
-    year: "2023",
-    description: "XXXXXXXX"
+    title: "Masters of Computer Application",
+    institution: "Jain (Deemed-to-be University)",
+    location: "Bangalore, India",
+    year: "2024",
+    description: "Relevant coursework in [Cloud Computing, Computer Networks, etc.]"
   },
   {
-    title: "HIGHER SECONDARY EDUCATION",
-    institution: "XXXXXXXXXXX",
-    year: "2019",
-    description: "XXXXXXXXXXXX"
+    title: "Bachelor of Science - Mathematics & Science",
+    institution: "PDUSU",
+    location: "Rajasthan, India",
+    year: "2022",
   },
-  {
-    title: "SECONDARY EDUCATION",
-    institution: "XXXXXXXXX",
-    year: "2017",
-    description: "XXXXXXXX"
-  }
 ];
 
 export default function Educations() {
