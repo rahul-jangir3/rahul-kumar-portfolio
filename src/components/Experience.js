@@ -8,12 +8,10 @@ const experiences = [
     role: 'Python Developer',
     company: 'Kanak Infosystems LLP',
     duration: 'March 2022 - May 2023',
-    description:
-      '• Developed Apple login integration app for odoo ERP.',
-      '• Configured Docker containers for local and staging environments to streamline development, testing.',
-'• Configured client-server communication setup to odoo custom app to client systems using REST APIs.',
- '• Handled end-to-end client deployment lifecycle, including module packaging, version control, and production server deployment.''
-  },
+    description: `• Developed Apple login integration app for Odoo ERP.
+                  • Configured Docker containers for local and staging environments to streamline development and testing.
+                  • Configured client-server communication setup to Odoo custom app to client systems using REST APIs.
+                  • Handled end-to-end client deployment lifecycle, including module packaging, version control, and production server deployment.`
   {
     role: 'XXXXXXXXXX',
     company: 'XXXXXXXXXXXXX',
