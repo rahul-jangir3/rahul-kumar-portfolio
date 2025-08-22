@@ -5,11 +5,14 @@ import '../App.css';
 
 const experiences = [
   {
-    role: 'XXXXXXXX',
-    company: 'XXXXXX',
-    duration: 'Novemeber 2024 - May 2025',
+    role: 'Python Developer',
+    company: 'Kanak Infosystems LLP',
+    duration: 'March 2022 - May 2023',
     description:
-      'XXXXXXXXXXXXXXXX'
+      '• Developed Apple login integration app for odoo ERP.',
+      '• Configured Docker containers for local and staging environments to streamline development, testing.',
+'• Configured client-server communication setup to odoo custom app to client systems using REST APIs.',
+ '• Handled end-to-end client deployment lifecycle, including module packaging, version control, and production server deployment.''
   },
   {
     role: 'XXXXXXXXXX',
