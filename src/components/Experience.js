@@ -9,13 +9,13 @@ const experiences = [
     company: 'Kanak Infosystems LLP',
     duration: 'March 2022 - May 2023',
     description: 
-      "Developed Apple login integration app for Odoo ERP.\n Configured Docker containers for local and staging environments to streamline development and testing.\n Configured client-server communication setup to Odoo custom app to client systems using REST APIs.\n Handled end-to-end client deployment lifecycle, including module packaging, version control, and production server deployment."
+      'Developed and deployed custom Odoo ERP applications, including Apple login integration, while streamlining development and testing through Docker-based environments. Implemented REST API communication between client systems and Odoo custom apps, and managed the complete deployment lifecycle — from module packaging and version control to production server deployment.'
   {
-    role: 'XXXXXXXXXX',
-    company: 'XXXXXXXXXXXXX',
-    duration: 'October 2024 - March 2025',
+    role: 'DevOps Engineer Intern',
+    company: 'Shiwansh Solutions',
+    duration: 'August 2025 - Present',
     description:
-      'XXXXXXXXXXXXX'
+      'Working as a DevOps Engineer Intern focusing on AWS cloud services, CI/CD pipelines, automation using Ansible and Terraform, and containerization with Docker and Kubernetes. Gaining hands-on experience in deployment, monitoring, and infrastructure automation for real-world projects.'
   }
 ];
 
