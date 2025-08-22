@@ -52,7 +52,7 @@ function Projects() {
               </p>
               <p className="project-desc mb-2 text-light">{project.description}</p>
               <p className="project-responsibilities text-white-50">
-                <strong>Responsibilities:</strong> {project.responsibilities}
+                <strong>Tools:</strong> {project.tools}
               </p>
             </div>
           </motion.div>
