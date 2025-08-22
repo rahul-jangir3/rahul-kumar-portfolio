@@ -6,24 +6,23 @@ const projectList = [
   {
     title: 'Deployment of 2048 Game on AWS EKS using Fargate',
     description:
-      'Deployed a fully serverless 2048 Game App on AWS EKS using Fargate, configured Kubernetes deployments, services, ingress controller, and exposed with ALB for auto-scaling.',
+      'Deployed a Fully Serverless 2048 game App on AWS EKS using Fargate .Configured Kubernetes (Deployments, services) and ingress controller and expose with ALB for auto scaling, for pod-level security, integrated OIDC and IAM Roles',
     tools:
-      'Implemented pod-level security with OIDC and IAM Roles. Tools & Technologies: **Docker, DockerHub, Kubernetes, EKS, Fargate, ALB, OIDC, IAM**'
+      'Docker, Dockerhub, EKS, Fargate, ALB, OIDC, IAM'
   },
   {
     title: 'Jenkins CI/CD Pipeline for Java Application with SonarQube, Helm, and Argo CD',
     description:
-      'Implemented an end-to-end CI/CD pipeline for a Java-based web application automating build, test, quality checks, and deployment.',
+      'Implemented an end-to-end CI/CD pipeline for a Java based web application automating the entire process using Jenkins, Dockerhub and SonarQube for seamless code quality checks and Argo CD-based deployments.',
     tools:
-      'Integrated **Jenkins, DockerHub, SonarQube, Helm, Argo CD, and Kubernetes** for automation and deployments. Tools & Technologies: **AWS, Git, Jenkins, Java, SonarQube, Docker, Argo CD, Helm, Kubernetes**'
+      'AWS, Git, Jenkins, Java, SonarQube, Docker, Argo CD, Helm , Kubernetes'
   },
   {
     title: 'CI/CD Pipeline for Django Application using Jenkins and Argo CD on Kubernetes',
     description:
-      ['Deployed a Django-based To-Do application with a complete end-to-end CI/CD pipeline.',
-       'Used Jenkins for automation, and Argo CD for self-healing deployments in Kubernetes',]
+      'Deployed a Django-based To-Do application with a complete end-to-end CI/CD pipeline, using Argo CD for self-healing and deployment in Kubernetes',
     tools:
-      'Django, Jenkins, Argo CD, Kubernetes, Docker'
+      'GitHub, Jenkins, Argo CD , Kubernetes'
   }
 ];
 /*  u can add more projects after line 41 or else u want to delete from { to } u need to delete*/
@@ -53,7 +52,7 @@ function Projects() {
               </p>
               <p className="project-desc mb-2 text-light">{project.description}</p>
               <p className="project-responsibilities text-white-50">
-                <strong>Tools:</strong> {project.tools}
+                <strong>Tools & Tech:</strong> {project.tools}
               </p>
             </div>
           </motion.div>
