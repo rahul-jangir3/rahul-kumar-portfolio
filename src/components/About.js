@@ -21,9 +21,10 @@ function About() {
             <div className="card shadow p-4 border-0 bg-white bg-opacity-75">
               <h4 className="text-dark mb-3">.....</h4>
               <p className="text-muted">
-                {/* I'm an aspiring DevOps Engineer with a strong foundation in both development and operations. My journey began with Electronics & Communication Engineering, but my passion for technology led me to explore the dynamic world of DevOps and cloud computing. */}
+                {I'm Passionate AWS & DevOps Engineer with a solid background in Python development and hands-on expertise in cloud technologies.}
               </p>
               <p className="text-muted">
+                {Skilled in AWS services (EC2, S3, RDS, IAM, Lambda, VPC and DevOps) tools like Docker, Kubernetes, Terraform, Ansible, and Jenkins.}
                 {/* Through comprehensive training at Emexo Technologies and hands-on internship experience, I've developed expertise in containerization, CI/CD pipelines, cloud platforms, and infrastructure automation. I believe in continuous learning and staying updated with the latest industry trends. */}
               </p>
               <p className="text-muted">
