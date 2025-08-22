@@ -19,18 +19,26 @@ function About() {
           </div>
           <div className="col-md-8">
             <div className="card shadow p-4 border-0 bg-white bg-opacity-75">
-              <h4 className="text-dark mb-3">.....</h4>
+              <h4 className="text-dark mb-3">AWS & DevOps Engineer | Python Developer</h4>
               <p className="text-muted">
-                {/* I'm Passionate AWS & DevOps Engineer with a solid background in Python development and hands-on expertise in cloud technologies. */}
+                I am a passionate <strong>AWS & DevOps Engineer</strong> with a strong background in
+                <strong> Python development</strong> and hands-on experience in
+                <strong> cloud computing, automation, and CI/CD pipelines</strong>.
               </p>
               <p className="text-muted">
-                {/* Through comprehensive training at Emexo Technologies and hands-on internship experience, I've developed expertise in containerization, CI/CD pipelines, cloud platforms, and infrastructure automation. I believe in continuous learning and staying updated with the latest industry trends. */}
+                Starting my career as a Python | Odoo Developer, I transitioned into cloud and DevOps
+                by upskilling in <strong>AWS services</strong> (EC2, S3, RDS, IAM, VPC, Lambda,
+                CloudFormation) and <strong>DevOps tools</strong> (Docker, Kubernetes, Terraform,
+                Ansible, Jenkins, GitHub Actions).
               </p>
               <p className="text-muted">
-                {/* I'm also proficient with tools like <strong>Git</strong>, <strong>Amazon EC2</strong>, and <strong>Amazon S3</strong>, and have strong foundations in DevOps Tools like <strong>Kubernetes, Docker, Linux(Ubuntu), Jenkins CI/CD, GitHub, GitLab, GitHub Actions, Ansible, Terraform, SonarQube, NewRelic, Prometheus, Grafana, Python, Shell Scripting.</strong> */}
+                I have implemented real-world projects like <strong>serverless deployments on AWS EKS</strong>,
+                <strong> end-to-end CI/CD pipelines with Jenkins & ArgoCD</strong>, and
+                <strong> infrastructure automation with Terraform and Ansible</strong>.
               </p>
               <p className="text-muted mb-0">
-                {/* My goal is to build efficient, secure, and maintainable software that delivers value to users. I’m continuously learning, exploring new tech, and growing as a developer. */}
+                My focus is on building <strong>scalable, secure, and automated cloud solutions</strong>
+                while continuously learning and contributing to the DevOps community.
               </p>
             </div>
           </div>
