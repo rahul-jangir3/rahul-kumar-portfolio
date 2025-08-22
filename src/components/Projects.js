@@ -20,9 +20,10 @@ const projectList = [
   {
     title: 'CI/CD Pipeline for Django Application using Jenkins and Argo CD on Kubernetes',
     description:
-      'Deployed a Django-based To-Do application with a complete end-to-end CI/CD pipeline.',
+      ['Deployed a Django-based To-Do application with a complete end-to-end CI/CD pipeline.',
+       'Used Jenkins for automation, and Argo CD for self-healing deployments in Kubernetes',]
     tools:
-      'Used **Jenkins** for automation, and **Argo CD** for self-healing deployments in **Kubernetes**. Tools & Technologies: **Django, Jenkins, Argo CD, Kubernetes, Docker**'
+      'Django, Jenkins, Argo CD, Kubernetes, Docker'
   }
 ];
 /*  u can add more projects after line 41 or else u want to delete from { to } u need to delete*/
