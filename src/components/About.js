@@ -19,16 +19,8 @@ function About() {
           </div>
           <div className="col-md-8">
             <div className="card shadow p-4 border-0 bg-white bg-opacity-75">
-              <h4 className="text-dark mb-3"></h4>
+              <h4 className="text-dark mb-3">.....</h4>
               <p className="text-muted">
-              {I am a passionate AWS & DevOps Engineer with a strong foundation in Python development and hands-on experience in cloud technologies. Transitioning from Python | Odoo development, I have upskilled in cloud computing, infrastructure automation, and DevOps practices to build scalable, secure, and efficient cloud solutions.
-              🔹 Expertise in AWS Services – EC2, S3, RDS, IAM, Lambda, VPC, CloudFormation, and more.
-              🔹 DevOps Tools & CI/CD – Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions.
-              🔹 Automation & Scripting – Python & Bash scripting for cloud and system automation.
-              🔹 Infrastructure as Code (IaC) – Automating cloud infrastructure using Terraform & CloudFormation.
-              🔹 Monitoring & Security – Implementing logging, monitoring, and security best practices in cloud environments.
-              
-              I am continuously learning and working on hands-on AWS DevOps projects, contributing to open-source, and staying updated with the latest cloud innovations. Open to collaboration, networking, and exciting opportunities in cloud & DevOps engineering!}
                 {/* I'm an aspiring DevOps Engineer with a strong foundation in both development and operations. My journey began with Electronics & Communication Engineering, but my passion for technology led me to explore the dynamic world of DevOps and cloud computing. */}
               </p>
               <p className="text-muted">
