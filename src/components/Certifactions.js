@@ -5,18 +5,18 @@ import '../App.css';
 
 const certifications = [
   {
-    title: "XXXXXXXX", /* change the name of your certification */
-    issuer: "XXXXXXX", /* issued company/college/institute/university*/
-    year: "2024",
+    title: "AWS & DevOps Training", /* change the name of your certification */
+    issuer: "Intellipaat", /* issued company/college/institute/university*/
+    year: "2025",
     description:
-      "XXXXXXXXXXX"
+      "Comprehensive training covering core AWS services (EC2, S3, RDS, IAM, VPC, Lambda, CloudFormation) and DevOps tools (Docker, Kubernetes, Terraform, Ansible, Jenkins). Gained hands-on experience through multiple real-world projects, focusing on cloud infrastructure automation, CI/CD pipelines, and deployment of scalable applications."
   },
   {
-    title: "XXXXXXXXX",
-    issuer: "XXXXXXXX",
-    year: "2022",
+    title: "Gen AI for DevOps and DevSecOps Engineers",
+    issuer: "Udemy",
+    year: "2025",
     description:
-      "XXXXXXXXXXXXXX"
+      "Mastered Generative AI for DevOps and DevSecOps with hands-on projects, covering AI/ML fundamentals, prompt engineering, model integration, and real-world automation use cases"
   },
 ];
 
