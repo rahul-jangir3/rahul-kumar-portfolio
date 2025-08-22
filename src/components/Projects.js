@@ -4,41 +4,26 @@ import '../App.css';
 
 const projectList = [
   {
-    title: 'XXXXXXXXXX',
-    duration: 'Feb 2025 – May 2025',
-    company: 'XXXXXXXX',
+    title: 'Deployment of 2048 Game on AWS EKS using Fargate',
     description:
-      'XXXXXXXXXX',
-    responsibilities:
-      'XXXXXXXXX'
+      'Deployed a fully serverless 2048 Game App on AWS EKS using Fargate, configured Kubernetes deployments, services, ingress controller, and exposed with ALB for auto-scaling.',
+    tools:
+      'Implemented pod-level security with OIDC and IAM Roles. Tools & Technologies: **Docker, DockerHub, Kubernetes, EKS, Fargate, ALB, OIDC, IAM**'
   },
   {
-    title: 'XXXXXXXX',
-    duration: 'July 2024 – Nov 2024',
-    company: 'XXXXXXXX',
+    title: 'Jenkins CI/CD Pipeline for Java Application with SonarQube, Helm, and Argo CD',
     description:
-      'XXXXXXXXXX',
-    responsibilities:
-      'XXXXXXXXXX' 
+      'Implemented an end-to-end CI/CD pipeline for a Java-based web application automating build, test, quality checks, and deployment.',
+    tools:
+      'Integrated **Jenkins, DockerHub, SonarQube, Helm, Argo CD, and Kubernetes** for automation and deployments. Tools & Technologies: **AWS, Git, Jenkins, Java, SonarQube, Docker, Argo CD, Helm, Kubernetes**'
   },
   {
-    title: 'XXXXXXXXX',
-    duration: 'Mar 2024 – Jun 2024',
-    company: 'XXXXXXXXX',
+    title: 'CI/CD Pipeline for Django Application using Jenkins and Argo CD on Kubernetes',
     description:
-      'XXXXXXXXXXX',
-    responsibilities:
-      'XXXXXXXXXX'
-  },
-   {
-    title: 'XXXXXXXXX',
-    duration: 'Mar 2024 – Jun 2024',
-    company: 'XXXXXXXX',
-    description:
-      'XXXXXXX',
-    responsibilities:
-      'XXXXXXX'
-  },
+      'Deployed a Django-based To-Do application with a complete end-to-end CI/CD pipeline.',
+    tools:
+      'Used **Jenkins** for automation, and **Argo CD** for self-healing deployments in **Kubernetes**. Tools & Technologies: **Django, Jenkins, Argo CD, Kubernetes, Docker**'
+  }
 ];
 /*  u can add more projects after line 41 or else u want to delete from { to } u need to delete*/
 function Projects() {
