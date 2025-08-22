@@ -24,7 +24,7 @@ export default function Home() {
         </div>
 
         <h1 className="display-4 fw-bold mb-3 animate-fade">
-          Hi, I’m <span className="highlight-name">XXXXXNAMEXXXXXX</span>
+          Hi, I’m <span className="highlight-name">Rahul Kumar</span>
         </h1>
 
         <h2 className="typing-text mb-4 fs-4">
@@ -32,11 +32,9 @@ export default function Home() {
             sequence={[
               '-Designations-', /* Give your designations suppose you are devops engineer, cybersecruity engineer, frontend engineer, backend engineer, web developer, flutter developer, .net developer .....*/
               2000,
-              'XXXXXXX',
+              'Devops Engineer',
               2000,
-              'XXXXXXXX',
-              2000,
-              'XXXXXXXX',
+              'Python Developer',
               2000,
             ]}
             wrapper="span"
@@ -47,7 +45,7 @@ export default function Home() {
 
         <a
           href={resumePDF}
-          download="XXXXXXXX.pdf" /* your resume name with extension of .pdf*/
+          download="Rahul-Kumar-resume.pdf" /* your resume name with extension of .pdf*/
           className="btn btn-glow btn-lg px-4 py-2 shadow d-inline-flex align-items-center"
         >
           <FaDownload className="me-2" />
