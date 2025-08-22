@@ -3,11 +3,8 @@ import { motion } from 'framer-motion';
 import '../App.css';
 
 const skillCategories = {
-  'Programming Languages': ['Python', 'JavaScript', 'HTML', 'CSS'],
-  'Databases': ['NoSQL, RDS, MongoDB'],
-  'Frameworks': ['React.js'],
-  'Tools': ['Amazon EC2', 'Amazon S3', 'LINUX(Ubuntu)', 'Git'],
-  'Devops': ['Kubernetes, Docker, Jenkins CI/CD, Ansible, Terraform, SonarQube, NewRelic, Prometheus, Grafana']
+  'Technical': ['Python', 'AWS', 'Linux', 'Terraform', 'Ansible', 'Kubernetes', 'REST APIs'],
+  'Tools': ['Jenkins', 'GitHub', 'Argo CD', 'Docker', 'Helm', 'Prometheus', 'Grafana', 'SonarQube']
 };
 
 export default function Skills() {
