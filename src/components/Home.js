@@ -1,8 +1,8 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
 import { FaDownload } from 'react-icons/fa';
-import resumePDF from '../assets/resume.pdf.pdf'; // Make sure this file exists
-import profileImg from '../assets/name.jpg.jpg'; // ✅ Your profile picture
+import resumePDF from '../assets/Rahul-Kumar-Resume-20250805.pdf'; // Make sure this file exists
+import profileImg from '../assets/1000105638.JPG'; // ✅ Your profile picture
 import '../App.css';
 
 export default function Home() {
