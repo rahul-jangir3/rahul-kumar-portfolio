@@ -8,8 +8,9 @@ const experiences = [
     role: 'Python Developer',
     company: 'Kanak Infosystems LLP',
     duration: 'March 2022 - May 2023',
-    description: 
+    description:
       'Developed and deployed custom Odoo ERP applications, including Apple login integration, while streamlining development and testing through Docker-based environments. Implemented REST API communication between client systems and Odoo custom apps, and managed the complete deployment lifecycle — from module packaging and version control to production server deployment.'
+  },
   {
     role: 'DevOps Engineer Intern',
     company: 'Shiwansh Solutions',
@@ -18,7 +19,6 @@ const experiences = [
       'Working as a DevOps Engineer Intern focusing on AWS cloud services, CI/CD pipelines, automation using Ansible and Terraform, and containerization with Docker and Kubernetes. Gaining hands-on experience in deployment, monitoring, and infrastructure automation for real-world projects.'
   }
 ];
-
 export default function Experience() {
   return (
     <motion.section
